@@ -6,7 +6,7 @@ const timelineItemsList = [
   {
     id: 'c6aad2fb-7673-45cf-9606-a335acc0cf4b',
     categoryId: 'COURSE',
-    title: '10 DECEMBER 2020',
+    title: '23 JULY 2024',
     courseTitle: 'Static Website',
     description:
       'Build your own personal portfolio website and a website to host conferences and events.  Publish your website and share it with your friends, family and beyond.',
@@ -45,7 +45,7 @@ const timelineItemsList = [
   {
     id: 'a19d93d6-bdac-479e-b554-974ef9e6e66c',
     categoryId: 'PROJECT',
-    title: '21 DECEMBER 2020',
+    title: '21 JULY 2024',
     projectTitle: 'Tourism Website',
     description:
       'A tourism website enables the user to browse through the images of popular destinations.',
@@ -56,7 +56,7 @@ const timelineItemsList = [
   {
     id: '40b82899-fdf7-4a3e-a43a-41a9917b4582',
     categoryId: 'COURSE',
-    title: '5 JANUARY 2021',
+    title: '31 JULY 2024',
     courseTitle: 'Responsive Website',
     description:
       'Build a responsive website that appears beautifully on the screen of any size. Develop a personal portfolio website, an E-commerce product listing website and a website to host conferences and events.',
@@ -95,7 +95,7 @@ const timelineItemsList = [
   {
     id: 'ae2ede68-af77-427c-817c-0ce4beeb69c7',
     categoryId: 'PROJECT',
-    title: '7 JANUARY 2021',
+    title: '28 JULY 2024',
     projectTitle: 'Food Munch',
     description: 'Food Much Website is a user-centric food tech website.',
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/projects-r2-img.png',
@@ -144,7 +144,7 @@ const timelineItemsList = [
   {
     id: 'd6c4b3a5-7b1d-4906-aca8-823f44129004',
     categoryId: 'PROJECT',
-    title: '6 FEBRUARY 2021',
+    title: '4 AUGEST 2024',
     projectTitle: 'Todos Application',
     description:
       'This app helps users to track the day to day tasks. Users can create, edit, track the status of each todo item and able to persist them over page reloads.',
@@ -156,7 +156,7 @@ const timelineItemsList = [
   {
     id: '0a35abbe-22ca-40a1-81da-613f656b7702',
     categoryId: 'PROJECT',
-    title: '15 FEBRUARY 2021',
+    title: '12 AUGEST 2024',
     projectTitle: 'Wikipedia Search Application',
     description:
       'Using this Wikipedia Search Application users can search and view curated results and can see detailed explanations in Wikipedia by clicking on the specific result.',
